@@ -29,7 +29,7 @@ for i in range(n):
 
 以降は関数型言語から学んだ再帰関数の実装方法を共有します。
 
-# 再帰関数の実装
+# 再帰関数の例
 ```python:sample.py
 arr = [1, 2, 3]
 for i in range(n):
